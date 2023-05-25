@@ -42,11 +42,24 @@ export default function Contact() {
           </h2>
         </HeadingAnimate>
         <LoadAnimate amount={0}>
-          <p className="mx-auto mt-5 text-base leading-relaxed opacity-80 md:w-1/2">
-            I'm actively looking for any new opportunities, my inbox is always open. Whether you have a question or want
-            to hire me or just want to say hello, I'll try my best to get back to you!
+          <div className="flex flex-wrap justify-center gap-x-4 gap-y-7 text-center sm:gap-x-7">
+            <div className='flex h-full w-full items-center rounded-lg bg-primary-800/10 p-4'>
+          <p >
+          If you're ready to take your project to the next level, I am available for hire! Whether you need a full-scale software development project or require assistance with existing code, I am here to help. Don't hesitate to reach out and text me for further clarifications. I believe that effective communication is key to understanding your unique requirements and delivering exceptional results. Let's collaborate and create something extraordinary together! Your digital vision deserves the expertise of a dedicated software developer. Get in touch today, and let's turn your ideas into reality.
           </p>
+        
+          </div>
+          </div>
         </LoadAnimate>
+      
+        <div id="checkmyresume">
+          <a
+            href="https://drive.google.com/file/d/1l6p8agY7N4hpIc8lbquAhLafFOtio2CK/view?usp=share_link"
+            className="download-button bg-primary-700 text-white text-2xl font-bold py-2 px-4 rounded-lg"
+          >
+            Check My Resume
+          </a>
+        </div>
       </div>
       <div className="mx-auto md:w-2/3 lg:w-1/2">
         <LoadAnimate amount={0}>
@@ -87,7 +100,7 @@ export default function Contact() {
                   name="message"
                   required
                   className="h-32 w-full resize-none rounded border border-primary-700/70 bg-primary-100/20 py-1 px-3 text-base leading-8 outline-none transition-colors duration-200 ease-in-out focus:ring-1 focus:ring-primary-700/70 dark:border-primary-300/50 dark:bg-primary-300/10 dark:focus:ring-primary-300/50"
-                  defaultValue={'Hello Dhaval,'}
+                  defaultValue={'Hello Francis,'}
                 />
               </div>
               <div className="flex w-full justify-end p-2">
@@ -120,9 +133,9 @@ export default function Contact() {
                     classes="inline-block text-lg mr-1 text-primary-700 dark:text-primary-300"
                     icon="bytesize:location"
                   />
-                  Ahmedabad
+                  Allsoaps
                   <br />
-                  Gujarat, India
+                  Nairobi, Kenya
                 </p>
                 <div className="flex w-full justify-center">
                   <SocialLinks />

@@ -72,6 +72,11 @@ html {
   transform: rotate(45deg);
   margin: 0 0 3px 8px;
 }
+#checkmyresume{
+
+  padding:50px;
+
+}
 #mouse-scroll .mouse {
   height: 30px;
   width: 21px;

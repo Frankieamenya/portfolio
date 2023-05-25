@@ -85,27 +85,27 @@ PUBLIC_KEY= "YOUR PUBLIC KEY"
 ```javascript
 export const SOCIAL_LINKS = [
   {
-    link: 'https://twitter.com/dhavalCode',         // <--- Social handle Link
+    link: 'https://twitter.com/DevAmenya',         // <--- Social handle Link
     icon: 'akar-icons:twitter-fill',          // <--- Iconify Icon name
   },
   {
-    link: 'https://github.com/dhavalcode',
+    link: 'https://github.com/Frankieamenya',
     icon: 'akar-icons:github-fill',
   },
   {
-    link: 'https://linkedin.com/in/dhavalcode',
+    link: 'https://www.linkedin.com/in/francis-amenya/',
     icon: 'akar-icons:linkedin-fill',
   },
 ];
 
-export const HERO_TITLES = ['Dhaval Patel', 'Full-stack Developer', 'Javascript Enthusiast'];
+export const HERO_TITLES = ['Francis Amenya', 'Full-stack Developer', 'Javascript Enthusiast'];
 
 export const aboutParagraph =
   'Highly motivated and enthusiastic Full Stack Developer with experience in designing, developing and maintaining web applications using technologies such as JavaScript, React, Node.js. ';
 
-export const contactEmail = 'works.dhaval@gmail.com';
+export const contactEmail = 'works.frankieamenya2000@gmail.com';
 
-export const documentTitle = 'Hello I am Dhaval Patel | Full Stack Developer | Javascript Enthusiast'
+export const documentTitle = 'Hello I am Francis Amenya | Full Stack Developer | Javascript Enthusiast'
 
 
 ```
@@ -151,9 +151,9 @@ If you want to add more, Please don't hesitate to open a [pull request](https://
 
 ##  👋 Get in Touch
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dhavalcode?style=social)](https://twitter.com/dhavalCode)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dhavalcode?style=social)](https://twitter.com/DevAmenya)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavalcode) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-amenya/) 
 
 
 

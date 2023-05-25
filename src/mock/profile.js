@@ -1,23 +1,23 @@
 export const SOCIAL_LINKS = [
   {
-    link: 'https://twitter.com/dhavalCode',       
+    link: 'https://twitter.com/DevAmenya',       
     icon: 'akar-icons:twitter-fill',        
   },
   {
-    link: 'https://github.com/dhavalcode',
+    link: 'https://github.com/Frankieamenya',
     icon: 'akar-icons:github-fill',
   },
   {
-    link: 'https://linkedin.com/in/dhavalcode',
+    link: 'https://www.linkedin.com/in/francis-amenya/',
     icon: 'akar-icons:linkedin-fill',
   },
 ];
 
-export const HERO_TITLES = ['Dhaval Patel', 'Full-stack Developer', 'Javascript Enthusiast'];
+export const HERO_TITLES = ['Francis Amenya Onyando', 'an RPA Developer', 'Full-stack Developer', 'a Javascript Enthusiast'];
 
 export const aboutParagraph =
-  'Highly motivated and enthusiastic Full Stack Developer with experience in designing, developing and maintaining web applications using technologies such as JavaScript, React, Node.js. ';
+  'Highly skilled and adaptable, I am a seasoned RPA (Robotic Process Automation) developer with a comprehensive understanding of various programming languages and frameworks. With expertise in Python, JavaScript, C#, and several other languages, I possess a deep knowledge of the software development life cycle and a strong ability to deliver efficient automation solutions. Combining technical prowess with a problem-solving mindset, I excel in developing robust RPA solutions that streamline business processes and optimize productivity. ';
 
-export const contactEmail = 'works.dhaval@gmail.com';
+export const contactEmail = 'frankieamenya2000@gmail.com';
 
-export const documentTitle = 'Hello I am Dhaval Patel | Full Stack Developer | Javascript Enthusiast'
+export const documentTitle = 'Hello I am Francis Amenya Onyando | Full Stack Developer | Javascript Enthusiast'
