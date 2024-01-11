@@ -75,7 +75,6 @@ export const PROJECTS = [
     ],
     description:
       'Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart. It is build with React Js, Node Js.',
-    repoLink: 'https://github.com/dhavalCode/flipkart-clone',
     sourceLink: 'https://flipkart-web.vercel.app/',
     category: [PROJECT_CATEGORY.FULL_STACK, PROJECT_CATEGORY.OPEN_SOURCE],
   },
@@ -90,7 +89,7 @@ export const PROJECTS = [
     ],
     description:
       'Simple and classic modern portfolio for who wants to present himself as a software developer. Portfolio build with highly customizable using Tailwind CSS, Next Js.',
-    repoLink: 'https://github.com/Frankieamenya/MyPortfolio.git',
+    repoLink: 'https://github.com/Frankieamenya/portfolio',
     sourceLink: 'https://francis-amenya-portfolio.onrender.com/',
     category: [PROJECT_CATEGORY.OPEN_SOURCE],
   },
