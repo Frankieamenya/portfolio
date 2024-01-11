@@ -79,7 +79,7 @@ export const PROJECTS = [
     category: [PROJECT_CATEGORY.FULL_STACK, PROJECT_CATEGORY.OPEN_SOURCE],
   },
   {
-    imgSrc: 'https://images2.imgbox.com/b5/bb/6f5g9QBE_o.png',
+    imgSrc: '/Screenshot 2024-01-11 220038.png', // Updated local path
     title: 'Developer Portfolio',
     techIcons: [
       getSkillByLabel(FRONTEND_SKILLS, 'HTML'),

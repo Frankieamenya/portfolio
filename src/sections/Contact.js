@@ -54,7 +54,7 @@ export default function Contact() {
       
         <div id="checkmyresume">
           <a
-            href="https://drive.google.com/file/d/1l6p8agY7N4hpIc8lbquAhLafFOtio2CK/view?usp=share_link"
+            href="https://drive.google.com/file/d/1qmxCYI-Tev028qnRHqkvJcu8XLia-PGW/view?usp=sharing"
             className="download-button bg-primary-700 text-white text-2xl font-bold py-2 px-4 rounded-lg"
           >
             Check My Resume
