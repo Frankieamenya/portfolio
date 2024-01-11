@@ -13,10 +13,10 @@ export const SOCIAL_LINKS = [
   },
 ];
 
-export const HERO_TITLES = ['Francis Amenya Onyando', 'an RPA Developer', 'Full-stack Developer', 'a Javascript Enthusiast'];
+export const HERO_TITLES = ['Francis Amenya Onyando', 'Software Engineer', 'Full-stack Developer', 'Javascript Enthusiast'];
 
 export const aboutParagraph =
-  'Highly skilled and adaptable, I am a seasoned RPA (Robotic Process Automation) developer with a comprehensive understanding of various programming languages and frameworks. With expertise in Python, JavaScript, C#, and several other languages, I possess a deep knowledge of the software development life cycle and a strong ability to deliver efficient automation solutions. Combining technical prowess with a problem-solving mindset, I excel in developing robust RPA solutions that streamline business processes and optimize productivity. ';
+  'I am highly skilled and adaptable, I am also a seasoned RPA (Robotic Process Automation) developer with a comprehensive understanding of various programming languages and frameworks. With expertise in Python, JavaScript, C#, and several other languages, I possess a deep knowledge of the software development life cycle and a strong ability to deliver efficient automation solutions. Combining technical prowess with a problem-solving mindset, I excel in developing robust RPA solutions that streamline business processes and optimize productivity. ';
 
 export const contactEmail = 'frankieamenya2000@gmail.com';
 
