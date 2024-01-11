@@ -16,7 +16,7 @@
  - Highly customizable portfolio. You can easily customize it as you want.     
 
 ## Live Demo 🚀
-[don't click here](https://dhavalcode.com)
+[don't click here](https:/franciscode.com)
 
 ## Technologies Used 🖥️
 
@@ -33,7 +33,7 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/dhavalCode/dev-portfolio.git
+git clone https://github.com/Frankieamenya/portfolio
 
 # Go into the repository
 cd dev-portfolio
@@ -139,7 +139,7 @@ export const documentTitle = 'Hello I am Francis Amenya | Full Stack Developer |
 
 
 ## Deploy on Vercel
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FdhavalCode%2Fdev-portfolio%2F)
+[![Deploy with Vercel](https://vercel.com/button)](https://francis-amenya-portfolio.onrender.com/)
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
@@ -147,12 +147,12 @@ Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment)
 
 
 ## For the Future
-If you want to add more, Please don't hesitate to open a [pull request](https://github.com/dhavalCode/dev-portfolio/pulls).
+If you want to add more, Please don't hesitate to open a [pull request](https://github.com/https://github.com/Frankieamenya/portfolio/).
 
 
 ##  👋 Get in Touch
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dhavalcode?style=social)](https://twitter.com/DevAmenya)
+[![Twitter Follow](https://twitter.com/DevAmenya)](https://twitter.com/DevAmenya)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-amenya/) 
 

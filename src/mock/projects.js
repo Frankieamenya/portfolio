@@ -91,7 +91,7 @@ export const PROJECTS = [
     description:
       'Simple and classic modern portfolio for who wants to present himself as a software developer. Portfolio build with highly customizable using Tailwind CSS, Next Js.',
     repoLink: 'https://github.com/Frankieamenya/MyPortfolio.git',
-    sourceLink: 'https://dhavalcode.com/',
+    sourceLink: 'https://francis-amenya-portfolio.onrender.com/',
     category: [PROJECT_CATEGORY.OPEN_SOURCE],
   },
   {
@@ -110,7 +110,6 @@ export const PROJECTS = [
     ],
     description:
       'The e-commerce to buy kitchen related items. College final year project base on Servlets and JSP (Java)',
-    repoLink: 'https://github.com/dhavalcode/ecommerce-java-project',
     sourceLink: '',
     category: [PROJECT_CATEGORY.FULL_STACK, PROJECT_CATEGORY.OPEN_SOURCE],
   },
@@ -125,7 +124,6 @@ export const PROJECTS = [
       getSkillByLabel(BACKEND_SKILLS, 'REST Api'),
     ],
     description: 'Netflix clone using react Js. Proving movies details using TMDB API.',
-    repoLink: 'https://github.com/dhavalcode/netflix-clone',
     sourceLink: 'https://netflix-clone-by-dhaval.web.app/',
     category: [PROJECT_CATEGORY.OPEN_SOURCE],
   },
