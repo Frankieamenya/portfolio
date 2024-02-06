@@ -28,6 +28,21 @@ const getSkillByLabel = (skills, techLabel) => skills.find(({ label }) => label 
 
 export const PROJECTS = [
   {
+    imgSrc: '/Screenshot 2024-01-11 220038.png', // Updated local path
+    title: 'Developer Portfolio',
+    techIcons: [
+      getSkillByLabel(FRONTEND_SKILLS, 'HTML'),
+      getSkillByLabel(FRONTEND_SKILLS, 'CSS'),
+      getSkillByLabel(FRONTEND_SKILLS, 'Tailwind CSS'),
+      getSkillByLabel(FRONTEND_SKILLS, 'Next.js'),
+    ],
+    description:
+      'Simple and classic modern portfolio for who wants to present himself as a software developer. Portfolio build with highly customizable using Tailwind CSS, Next Js.',
+    repoLink: 'https://github.com/Frankieamenya/portfolio',
+    sourceLink: 'https://francis-amenya-portfolio.onrender.com/',
+    category: [PROJECT_CATEGORY.OPEN_SOURCE],
+  },
+  {
     imgSrc: 'https://images2.imgbox.com/9a/99/kqwtfUDq_o.png',
     title: 'Servofeat.com - Restaurant POS Systems',
     techIcons: [
@@ -62,8 +77,8 @@ export const PROJECTS = [
     category: [PROJECT_CATEGORY.FULL_STACK],
   },
   {
-    imgSrc: 'https://drive.google.com/file/d/1jnDmZW0dXBE3sxy7D0Hn6HrsEcTzumAt/view?usp=drive_link',
-    title: 'Flipkart Clone - E-Commerce Project',
+    imgSrc: '\Screenshot 2024-02-06 210720.jpg',
+    title: 'Techducate Software Education School',
     techIcons: [
       getSkillByLabel(FRONTEND_SKILLS, 'HTML'),
       getSkillByLabel(FRONTEND_SKILLS, 'CSS'),
@@ -74,24 +89,9 @@ export const PROJECTS = [
       getSkillByLabel(BACKEND_SKILLS, 'Mongodb'),
     ],
     description:
-      'Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart. It is build with React Js, Node Js.',
-    sourceLink: 'https://flipkart-web.vercel.app/',
+      'Techducate Website is done with top-notch features for booking classes. It is build with React Js, Node Js.',
+    sourceLink: 'https://techducateafrica.co.ke/',
     category: [PROJECT_CATEGORY.FULL_STACK, PROJECT_CATEGORY.OPEN_SOURCE],
-  },
-  {
-    imgSrc: '/Screenshot 2024-01-11 220038.png', // Updated local path
-    title: 'Developer Portfolio',
-    techIcons: [
-      getSkillByLabel(FRONTEND_SKILLS, 'HTML'),
-      getSkillByLabel(FRONTEND_SKILLS, 'CSS'),
-      getSkillByLabel(FRONTEND_SKILLS, 'Tailwind CSS'),
-      getSkillByLabel(FRONTEND_SKILLS, 'Next.js'),
-    ],
-    description:
-      'Simple and classic modern portfolio for who wants to present himself as a software developer. Portfolio build with highly customizable using Tailwind CSS, Next Js.',
-    repoLink: 'https://github.com/Frankieamenya/portfolio',
-    sourceLink: 'https://francis-amenya-portfolio.onrender.com/',
-    category: [PROJECT_CATEGORY.OPEN_SOURCE],
   },
   {
     imgSrc: 'https://images2.imgbox.com/dd/a3/Fcx8cjEr_o.jpg',
