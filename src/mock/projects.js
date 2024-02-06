@@ -77,7 +77,7 @@ export const PROJECTS = [
     category: [PROJECT_CATEGORY.FULL_STACK],
   },
   {
-    imgSrc: '\Screenshot 2024-02-06 210720.jpg',
+    imgSrc: '/Screenshot 2024-02-06 210720.jpg',
     title: 'Techducate Software Education School',
     techIcons: [
       getSkillByLabel(FRONTEND_SKILLS, 'HTML'),
