@@ -62,7 +62,7 @@ export const PROJECTS = [
     category: [PROJECT_CATEGORY.FULL_STACK],
   },
   {
-    imgSrc: 'https://images2.imgbox.com/79/5f/S3hu6kJs_o.jpg',
+    imgSrc: 'https://drive.google.com/file/d/1jnDmZW0dXBE3sxy7D0Hn6HrsEcTzumAt/view?usp=drive_link',
     title: 'Flipkart Clone - E-Commerce Project',
     techIcons: [
       getSkillByLabel(FRONTEND_SKILLS, 'HTML'),
